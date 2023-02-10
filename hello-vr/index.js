@@ -12,7 +12,7 @@ export default class hello_vr extends React.Component {
       <View style={styles.panel}>
         <View style={styles.greetingBox}>
           <Text style={styles.greeting}>
-            Welcome to React 360
+            Welcome
           </Text>
         </View>
       </View>
